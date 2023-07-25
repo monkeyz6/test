@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T02:49:55.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="NjC-4awu3a_ljoEv2-hr" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T02:53:35.075Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="Lq7waoJaAh108LhHFduy" version="21.6.5" type="github">
   <diagram name="第 1 页" id="FUQudz34t2ytJJfa0v0i">
     <mxGraphModel dx="2074" dy="1116" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#1e1f22" math="0" shadow="0">
       <root>
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="0DrY1R5x5lav_iNpwX6R-13" value="将3000弹出存储到低3个slot槽中" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontFamily=MiSans;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="241" y="422" width="302" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="0DrY1R5x5lav_iNpwX6R-14" value="将栈顶两个int弹出，相加后在压入栈中" style="text;strokeColor=none;align=left;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontFamily=MiSans;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="261" y="413" width="302" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
